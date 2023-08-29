@@ -220,3 +220,75 @@ Received Import Request.
 Start importing Assets/Scenes/Tests Scenes/Menu  UI/Menu.unity using Guid(e71b276240ae54b17b66bcb3c2ed5bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '739292658ed0ac8f5fc1f173d125c6aa') in 0.000637 seconds
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 2784.869494 seconds.
+  path: Assets/Images
+  artifactKey: Guid(2bc7f45404fce4ec79341fcfd6aa43a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images using Guid(2bc7f45404fce4ec79341fcfd6aa43a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '195dcfccc8b6ee11a60c7296d214bf83') in 0.001951 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.386918 seconds.
+  path: Assets/Images/Backgrounds
+  artifactKey: Guid(356b9bdd389e74ad9b190ac222bb9587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Backgrounds using Guid(356b9bdd389e74ad9b190ac222bb9587) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58af5be5f5406f56eced798171324551') in 0.000447 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 6.262307 seconds.
+  path: Assets/Images/Backgrounds/Menu
+  artifactKey: Guid(feb853bbac8bf41ce935d9603f3afe67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Backgrounds/Menu using Guid(feb853bbac8bf41ce935d9603f3afe67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d4ec1e03e06b857c4708d6ce622a168') in 0.000450 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 8.144845 seconds.
+  path: Assets/Images/Backgrounds/Menu/Background.png
+  artifactKey: Guid(3540ff3320337446083d6ac49d26c656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Backgrounds/Menu/Background.png using Guid(3540ff3320337446083d6ac49d26c656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e1b5a7f7311c0f60070480bc33bb6a4') in 0.116559 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Images/Backgrounds/Menu/Background2.png
+  artifactKey: Guid(890568ddb1a234d70bd973d69d3ff11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Backgrounds/Menu/Background2.png using Guid(890568ddb1a234d70bd973d69d3ff11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dcf944583c63ceb68748aa4b90178fa') in 0.005100 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 22.128563 seconds.
+  path: Assets/Images/Backgrounds/Menu/Background.png
+  artifactKey: Guid(3540ff3320337446083d6ac49d26c656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Backgrounds/Menu/Background.png using Guid(3540ff3320337446083d6ac49d26c656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2262cb27db9fb4a02db8cf1e72b35c54') in 0.030635 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Images/Backgrounds/Menu/Background2.png
+  artifactKey: Guid(890568ddb1a234d70bd973d69d3ff11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/Backgrounds/Menu/Background2.png using Guid(890568ddb1a234d70bd973d69d3ff11c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa17bd182524a72290fa78dc7dcb1191') in 0.006956 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Import Request.
+  Time since last request: 1011.428945 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+  artifactKey: Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset using Guid(8f586378b4e144a9851e7b34d9b748ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de9d488d864380dc0aa2cf9066c0106c') in 0.233366 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 10
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+  artifactKey: Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset using Guid(2e498d1c8094910479dc3e1b768306a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa4e603a8339d3d23813512a1ae8db00') in 0.006930 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
