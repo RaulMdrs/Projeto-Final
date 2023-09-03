@@ -14,6 +14,7 @@ public class MenuScript : MonoBehaviour
     void Start()
     {
         music = GameObject.FindGameObjectWithTag("Music").GetComponent<AudioSource>();
+        music.volume = SoundController.MusicVolume;
     }
 
     // Update is called once per frame
